@@ -7,6 +7,12 @@ class Samochod {
     string marka;   
     string model;
     int rocznik;
+
+	void przykladowa_metoda()
+	{
+		//kod
+	}
+
 };
 
 int main() {
