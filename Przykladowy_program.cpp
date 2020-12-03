@@ -7,12 +7,6 @@ class Samochod {
     string marka;   
     string model;
     int rocznik;
-
-	void inna_funkcja_testowa()
-	{
-		//inny kod
-	}
-
 };
 
 int main() {
